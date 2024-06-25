@@ -1,7 +1,4 @@
-### Hi there 👋
-**ShabarishRamaswamy/ShabarishRamaswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Namaste 👋
 
 - 🔭 I’m currently working on Golang !
 - 🌱 I’m currently learning Distributed Systems and Networking for webservers, Databases.
@@ -10,6 +7,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Backend Engineering.
 - 📫 How to reach me: https://www.linkedin.com/in/shabarishramaswamy/
 - ⚡ Fun fact: I know Sanskrit and am learning Vedas and the Upanishads. I also love Philosophy, currently into Friedrich Nietzsche.
+
+## Current Work
+- [GoSeek](https://github.com/ShabarishRamaswamy/GoSeek) - A GOLang and HTMX based video player. My first time playing with streaming video/audio.
 
 <!--
 📈 my github stats
@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 - Golang
 - NodeJS
 - Python
+- Dart / Flutter
 
 ### Databases
+- SQL / Postgres.
 - Cassandra
 - MongoDB
 
