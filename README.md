@@ -1,6 +1,6 @@
 ### Namaste 👋
 
-- 🔭 I’m currently working on Golang !
+- 🔭 I’m currently working on Golang and C++ !
 - 🌱 I’m currently learning Distributed Systems and Networking for webservers, Databases.
 - 👯 I’m looking to collaborate on Golang, Distributed Systems, System Design, Databases.
 - 🤔 I’m looking for help with FrontEnd design.
@@ -22,14 +22,17 @@
 ## Technologies I work with
 ### Languages
 - Golang
+- C++
 - NodeJS
 - Python
 - Dart / Flutter
 
 ### Databases
-- SQL / Postgres.
+- SQL / Postgres
 - Cassandra
 - MongoDB
 
 ### MISC
+- Godot
+- Blender
 - Kafka
