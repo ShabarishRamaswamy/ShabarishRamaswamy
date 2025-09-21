@@ -10,6 +10,9 @@
 
 ## Current Work
 - [GoSeek](https://github.com/ShabarishRamaswamy/GoSeek) - A GOLang and HTMX based video player. My first time playing with streaming video/audio.
+- [TarCode](https://github.com/ShabarishRamaswamy/TarCode) - A Self-Hosted LeetCode platform running on Docker. [Go, React, Docker, Linux]
+
+- 
 
 <!--
 📈 my github stats
@@ -22,10 +25,14 @@
 ## Technologies I work with
 ### Languages
 - Golang
-- C++
-- NodeJS
+- C & C++
+- NodeJS / JS / TypeScript
 - Python
-- Dart / Flutter
+- Java
+
+### Tech
+- React
+- Docker
 
 ### Databases
 - SQL / Postgres
